@@ -1,0 +1,4 @@
+lb:
+  image: centular/nginx-proxy
+  ports:
+   - "80:80"
